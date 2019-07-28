@@ -209,7 +209,7 @@ Partial Class Form1
         'TextBox16
         '
         Me.TextBox16.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(204, Byte))
-        Me.TextBox16.Location = New System.Drawing.Point(578, -2)
+        Me.TextBox16.Location = New System.Drawing.Point(577, -2)
         Me.TextBox16.Name = "TextBox16"
         Me.TextBox16.Size = New System.Drawing.Size(101, 29)
         Me.TextBox16.TabIndex = 65
